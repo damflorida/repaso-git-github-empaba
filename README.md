@@ -3,7 +3,11 @@ En este repositorio haremos una serie de pruebas iniciales para trabajar con Git
 
 <Header>EMMA PARIS<Header> 
 
-Listado Objetivos:
-Aprender a programar
-Elaborar apps en distintos dispositivos
-Mejorar academicamente
+<header2>Listado Objetivos:<header2>
+<text>Aprender a programar<text>
+<text>Elaborar apps en distintos dispositivos<text>
+<text>Mejorar academicamente<text>
+
+<image>c:\Users\Usuario\RepasoGit\repaso-git-github-empaba\logo_git.png<image>
+
+<text>ya hemos practicado con GitHub<text>
